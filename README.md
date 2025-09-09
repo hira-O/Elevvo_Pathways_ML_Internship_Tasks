@@ -3,6 +3,18 @@
 This repository contains my practice tasks and mini-projects in machine learning & data science.  
 Each folder has a Jupyter Notebook and dataset, along with a small README explaining the task.  
 
+## 📦 Requirements
+The project uses the following main Python libraries:  
+- pandas, numpy (data handling)  
+- matplotlib, seaborn (visualization)  
+- scikit-learn (machine learning)  
+- xgboost, lightgbm (advanced models)  
+- tensorflow, keras (deep learning)  
+- librosa (audio processing)  
+- opencv-python (image processing)  
+
+👉 For the complete list, check [`requirements.txt`](./requirements.txt).
+
 ## 📂 Contents
 - **Task 1:** Student Score Prediction  
 - **Task 2:** Customer Segmentation  
