@@ -1,37 +1,23 @@
-# Machine Learning Tasks
+# Machine Learning Tasks Collection
 
-## Overview
-This repository contains 8 machine learning tasks across different levels (Beginner, Intermediate, Advanced, Industry).  
-The tasks cover regression, clustering, classification, recommendation systems, time-series forecasting, and deep learning.
+This repository contains my practice tasks and mini-projects in machine learning & data science.  
+Each folder has a Jupyter Notebook and dataset, along with a small README explaining the task.  
 
+## 📂 Contents
+- **Task 1:** Student Score Prediction  
+- **Task 2:** Customer Segmentation  
+- **Task 3:** Forest Cover Classification  
+- **Task 4:** Loan Approval Prediction  
+- **Task 5:** Movie Recommendation System  
+- **Task 6:** Music Genre Classification  
+- **Task 7:** Sales Forecasting  
+- **Task 8:** Traffic Sign Recognition  
 
----
-
-## Task List
-
-### Level 1
-- [Task 1: Student Score Prediction](Task1_StudentScorePrediction/README.md)  
-- [Task 2: Customer Segmentation](Task2_CustomerSegmentation/README.md)  
-
-### Level 2
-- [Task 3: Forest Cover Type Classification](Task3_ForestCoverClassification/README.md)  
-- [Task 4: Loan Approval Prediction](Task4_LoanApprovalPrediction/README.md)  
-- [Task 5: Movie Recommendation System](Task5_MovieRecommendation/README.md)  
-
-### Level 3
-- [Task 6: Music Genre Classification](Task6_MusicGenreClassification/README.md)  
-- [Task 7: Sales Forecasting](Task7_SalesForecasting/README.md)  
-
-### Industry Level
-- [Task 8: Traffic Sign Recognition](Task8_TrafficSignRecognition/README.md)  
+## How to Use
+1. Open the folder of the task you want.  
+2. Check the Jupyter Notebook (`.ipynb`) for code and results.  
+3. Each folder also has a short README for quick understanding.  
 
 ---
 
-## Tools & Libraries
-- **Python, Pandas, Numpy, Matplotlib, Scikit-learn**  
-- **XGBoost, LightGBM, Librosa, OpenCV, TensorFlow/Keras**  
-
----
-
-## Bonus Work
-Each task also includes optional **bonus challenges** like trying different algorithms, hyperparameter tuning, and advanced techniques (transfer learning, collaborative filtering, time-aware validation, etc.).
+This repo is a collection of my learning tasks while practicing **machine learning concepts** 
