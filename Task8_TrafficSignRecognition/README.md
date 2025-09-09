@@ -1,7 +1,12 @@
+
 # Task 8: Traffic Sign Recognition
 
 ## Introduction
 Classify traffic signs from images using deep learning models.
+
+## Dataset
+- **Source:** [GTSRB Dataset (Kaggle)](https://www.kaggle.com/)  
+- Contains thousands of labeled images of traffic signs.
 
 ## Task Completion Points
 - Preprocess images (resize, normalize).  
