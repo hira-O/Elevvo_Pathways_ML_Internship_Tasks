@@ -18,6 +18,5 @@ Each folder has a Jupyter Notebook and dataset, along with a small README explai
 2. Check the Jupyter Notebook (`.ipynb`) for code and results.  
 3. Each folder also has a short README for quick understanding.  
 
----
 
 This repo is a collection of my learning tasks while practicing **machine learning concepts** 
