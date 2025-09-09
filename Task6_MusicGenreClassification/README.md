@@ -3,6 +3,10 @@
 ## Introduction
 Classify songs into genres based on audio features like MFCCs or spectrograms.
 
+## Dataset
+- **Source:** [GTZAN Dataset (Kaggle)](https://www.kaggle.com/)  
+- Contains audio files labeled by music genre.
+  
 ## Task Completion Points
 - Preprocess audio features (MFCCs) or convert to spectrograms.  
 - Train **multi-class models** (ML models for tabular, CNNs for images).  
