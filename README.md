@@ -4,9 +4,6 @@
 This repository contains 8 machine learning tasks across different levels (Beginner, Intermediate, Advanced, Industry).  
 The tasks cover regression, clustering, classification, recommendation systems, time-series forecasting, and deep learning.
 
-### Internship Requirement
-- **2-week internship:** Complete at least 3 tasks (from any level).  
-- **1-month internship:** Complete at least 4 tasks (from any level).  
 
 ---
 
