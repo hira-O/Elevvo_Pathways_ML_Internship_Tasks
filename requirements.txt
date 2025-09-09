@@ -1,24 +1,2 @@
-# Core libraries
-numpy
-pandas
-matplotlib
-seaborn
 
-# Machine learning
-scikit-learn
-xgboost
-lightgbm
-
-# Deep learning
-tensorflow
-keras
-
-# Audio processing (Task 6: Music Genre Classification)
-librosa
-
-# Image processing (Task 8: Traffic Sign Recognition)
-opencv-python
-
-# Jupyter Notebook
-notebook
 
