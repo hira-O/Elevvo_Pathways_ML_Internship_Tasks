@@ -6,7 +6,7 @@ Cluster mall customers into meaningful segments based on income and spending beh
 ## Dataset
 - **Source:** [Mall Customer Dataset (Kaggle)](https://www.kaggle.com/)  
 - Includes attributes like customer ID, age, income, and spending score.
-- 
+  
 ## Task Completion Points
 - Load and preprocess the dataset.  
 - Scale numerical features.  
