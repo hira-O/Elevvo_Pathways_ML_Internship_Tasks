@@ -3,6 +3,11 @@
 ## Introduction
 Build a recommendation system that suggests movies to users based on their preferences using the MovieLens dataset.
 
+## Dataset
+- **Source:** [MovieLens 100K Dataset (Kaggle)](https://www.kaggle.com/)  
+- Contains movie ratings by users, movie details, and user profiles.
+
+
 ## Task Completion Points
 - Load dataset and construct a **user-item matrix**.  
 - Compute **user similarity** scores.  
